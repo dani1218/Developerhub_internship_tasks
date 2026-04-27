@@ -1,7 +1,7 @@
 # 📊 DevelopersHub Corporation – Data Science & Analytics Internship Tasks
 
 > Completed data science tasks as part of the **Data Science & Analytics Internship** at DevelopersHub Corporation.  
-> Due Date: **15th May, 2026**
+> Due Date: **27th April, 2026**
 
 ---
 
