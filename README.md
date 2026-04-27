@@ -214,9 +214,9 @@ Predict which customers are likely to accept a personal loan offer.
 
 ## Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/dani1218/Developerhub_internship_tasks)
-- LinkedIn: [your-linkedin](www.linkedin.com/in/daniyal-khan-b147012b8)
+**Daniyal khan**
+- GitHub: [@dani1218](https://github.com/dani1218/Developerhub_internship_tasks)
+- LinkedIn: [Daniyal khan](www.linkedin.com/in/daniyal-khan-b147012b8)
 - Email: dk6662805@gmail.com
 
 ---
