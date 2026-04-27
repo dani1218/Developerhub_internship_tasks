@@ -174,8 +174,7 @@ Predict which customers are likely to accept a personal loan offer.
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/developershub-data-science-tasks.git
-   cd developershub-data-science-tasks
+   git clone https://github.com/dani1218/Developerhub_internship_tasks.git
    ```
 
 2. **Install required libraries:**
@@ -216,9 +215,9 @@ Predict which customers are likely to accept a personal loan offer.
 ## Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- Email: your-email@example.com
+- GitHub: [@your-username](https://github.com/dani1218/Developerhub_internship_tasks)
+- LinkedIn: [your-linkedin](www.linkedin.com/in/daniyal-khan-b147012b8)
+- Email: dk6662805@gmail.com
 
 ---
 
